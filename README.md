@@ -20,8 +20,11 @@ Input as
 ### What is done
 Using zip for for loop
 
+Building Pytorch project
 ### What is left
-Using pytorch lighting for training (rewrite the train loop as well as eval loop) 
-build pytorch lighting project
+Using pytorch lighting for training and testing (rewrite the train loop as well as eval loop) 
+
+Using wandb
+
 
 
