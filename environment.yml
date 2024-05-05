@@ -1,0 +1,10 @@
+name: obj_detection
+channels:
+  - defaults
+dependencies:
+  - python=3.10.12
+  - pip
+  - torchvision
+  - scikit-learn
+  - numpy
+  - matplotlib
