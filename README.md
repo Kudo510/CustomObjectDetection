@@ -19,7 +19,7 @@ Input as
 
 ### What is done
 Using zip for for loop
-
+Using if __name__ == "__main__"
 Building Pytorch project
 ### What is left
 Using pytorch lighting for training and testing (rewrite the train loop as well as eval loop) 
